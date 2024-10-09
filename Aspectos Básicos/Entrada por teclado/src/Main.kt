@@ -6,4 +6,6 @@ fun main() {
     println("N3: $numero3")
     println("N4: $numero4")
 
+    val number: Double = readln().toDouble()
+
 }

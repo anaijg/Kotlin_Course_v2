@@ -1,7 +1,8 @@
 type: marketplace
 title: Kotlin Course v2
 language: English
-summary: Curso para adentrarse en el lenguaje Kotlin para alumnos que saben programar en Java
+summary: Curso para adentrarse en el lenguaje Kotlin para alumnos que saben programar
+  en Java
 programming_language: Kotlin
 content:
   - Aspectos Básicos
