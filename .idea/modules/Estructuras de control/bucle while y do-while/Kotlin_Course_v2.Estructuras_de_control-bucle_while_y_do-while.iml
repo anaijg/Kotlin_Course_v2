@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Estructuras_de_control-bucle_while_y_do-while" external.linked.project.path="$MODULE_DIR$/../../../../Estructuras de control/bucle while y do-while" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Kotlin_Course_v2" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Estructuras de control/bucle while y do-while">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Estructuras de control/bucle while y do-while/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Estructuras de control/bucle while y do-while/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Estructuras de control/bucle while y do-while/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

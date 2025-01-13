@@ -2,3 +2,6 @@ content:
   - if
   - when
   - if o when como expresiones
+  - bucle repeat
+  - bucle while y do-while
+  - bucle for

@@ -13,9 +13,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Aspectos Básicos/Entrada por teclado" />
             <option value="$PROJECT_DIR$/Aspectos Básicos/Salida estandar" />
+            <option value="$PROJECT_DIR$/Estructuras de control/bucle for" />
+            <option value="$PROJECT_DIR$/Estructuras de control/bucle repeat" />
+            <option value="$PROJECT_DIR$/Estructuras de control/bucle while y do-while" />
             <option value="$PROJECT_DIR$/Estructuras de control/if" />
             <option value="$PROJECT_DIR$/Estructuras de control/if o when como expresiones" />
             <option value="$PROJECT_DIR$/Estructuras de control/when" />
+            <option value="$PROJECT_DIR$/Expresiones lambda/Expresiones lambda" />
             <option value="$PROJECT_DIR$/Funciones/Argumentos con nombre" />
             <option value="$PROJECT_DIR$/Funciones/Determinar el resultado" />
             <option value="$PROJECT_DIR$/Funciones/Funciones" />
@@ -25,6 +29,7 @@
             <option value="$PROJECT_DIR$/Funciones/Precio del coche" />
             <option value="$PROJECT_DIR$/Programación Orientada a Objetos/Clases" />
             <option value="$PROJECT_DIR$/Programación Orientada a Objetos/Herencia" />
+            <option value="$PROJECT_DIR$/Programación Orientada a Objetos/Objetos" />
             <option value="$PROJECT_DIR$/Tipos de datos y variables/Tipos de datos y variables" />
             <option value="$PROJECT_DIR$/util" />
           </set>
